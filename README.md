@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Arpita Srivastava, currently a student studying CSE with focus on Health Informatics<br>My work spans AI Diagnostics, Full Stack Development and Software Development<br>I'm currently leading an AI-Based project<br><br>
+I'm Arpita Srivastava, currently a student studying CSE with focus on Health Informatics<br>My work spans AI Diagnostics, Full Stack Development and Software Development<br>I'm currently learning more about Software Development and wish to dive in deeper<br><br>
 
 
 ## 🌐 Socials:
